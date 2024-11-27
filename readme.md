@@ -140,6 +140,9 @@ Open source if not labeled differently.
 - [Sprinter] - Firmware for RepRap printers and similar devices.
 - [Teacup_Firmware] - Firmware for RepRap and other 3D printers.
 - [UnifiedFirmware] - Both 8 bit and 32 bit based machines/boards.
+- [PanelDueFirmware] - Firmware for the PanelDue touch screen for 3D printers 
+
+
 
 [AnetA8]: https://github.com/cyclemat/Marlin-2.0.0-for-Anet-A8-
 [CR-30 Firmware]: https://github.com/NAK3DDesigns/CR-30-Firmware
@@ -156,7 +159,7 @@ Open source if not labeled differently.
 [Sprinter]: https://github.com/kliment/Sprinter
 [Teacup_Firmware]: https://github.com/Traumflug/Teacup_Firmware
 [UnifiedFirmware]: https://github.com/th3dstudio/UnifiedFirmware
-
+[PanelDueFirmware]: https://github.com/Duet3D/PanelDueFirmware
 
 ## File Formats
 
